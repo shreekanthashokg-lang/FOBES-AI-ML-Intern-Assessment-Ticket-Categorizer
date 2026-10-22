@@ -1217,7 +1217,7 @@ to at least:
 1,000+ tickets
 ```
 
-and ideally much larger real-world datasets.
+AND IDEALLY MUCH LARGER REAL-WORLD DATASETS.
 
 ---
 
