@@ -381,7 +381,7 @@ It includes information such as:
 * Priority results
 * Edge-case results
 
-This provides evidence that the project was actually executed.
+THIS PROVIDES EVIDENCE THAT THE PROJECT WAS ACTUALLY EXECUTED.
 
 ---
 
