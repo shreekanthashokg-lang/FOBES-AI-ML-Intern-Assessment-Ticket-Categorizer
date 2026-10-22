@@ -16,7 +16,7 @@ THE SYSTEM CLASSIFIES EACH TICKET INTO ONE OF FOUR CATEGORIE
 * **HR**
 * **GENERAL**
 
-IN ADDITION  to category prediction, the system performs two additional tasks:
+IN ADDITION  TO CATEGORY PREDICTION, THE SYSTEM PERFORMS TWO ADDITIONAL TASKS :
 
 1. **PRIORITY DETECTION** — determines whether the ticket is `URGENT` or `NORMAL`.
 2. **Confidence-Based Human Review** — identifies predictions where the ML model is not sufficiently confident and sends them for `NEEDS HUMAN REVIEW` instead of automatically assigning them.
