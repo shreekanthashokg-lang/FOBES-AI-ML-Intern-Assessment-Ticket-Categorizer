@@ -146,7 +146,7 @@ Category: BILLING
 
 ## 2. 🛠️ TECHNICAL
 
-The **TECHNICAL** category contains tickets related to software, systems, applications, servers, and technical failures.
+The **TECHNICAL** CATEGORY CONTAINS TICKETS RELATED TO SOFTWARE, systems, applications, servers, and technical failures.
 
 Examples include:
 
