@@ -328,7 +328,7 @@ Because the dataset is synthetic and relatively small, the model's performance s
 
 This is the main executable file.
 
-It contains the complete pipeline for:
+ITS CONTAINS THE COMPLETE PIPELINE :
 
 ```text
 Data
