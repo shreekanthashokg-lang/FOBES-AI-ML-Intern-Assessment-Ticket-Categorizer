@@ -55,7 +55,7 @@ ORGANISATIONS RECIEVE SUPPPORT REQUESTS THROUGH :
 * Internal employee systems
 * Help-desk platforms
 
-Manually reading every incoming ticket and forwarding it to the correct department is repetitive and time-consuming.
+MANUALLY READING EVERY INCOMING TICKET AND FORWARDING IT to the correct department is repetitive and time-consuming.
 
 FOR EXAMPLE :
 
