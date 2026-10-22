@@ -1623,7 +1623,7 @@ Support Automation
 Human-in-the-Loop AI
 ```
 
-### Core Model
+### ORE STRUCTURED MODEL
 
 ```text
 TF-IDF + Multinomial Naive Bayes
