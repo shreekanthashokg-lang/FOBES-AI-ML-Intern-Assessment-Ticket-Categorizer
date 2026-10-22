@@ -81,7 +81,7 @@ should be routed to:
 TECHNICAL
 ```
 
-The purpose of this project is to automate the **first-level ticket triage process** using Natural Language Processing and Machine Learning.
+THE PURPOSE OP THIS PROJECT IS TO AUTOMATE THE **first-level ticket triage process** using Natural Language Processing and Machine Learning.
 
 ---
 
