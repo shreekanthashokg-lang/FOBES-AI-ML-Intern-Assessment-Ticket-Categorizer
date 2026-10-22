@@ -135,7 +135,8 @@ EXAMPLE FOR THE FOLLOWING:
 "I was charged twice for my monthly subscription."
 ```
 
-Expected result:
+
+EXPECTED RESULTS CAN BE :
 
 ```text
 Category: BILLING
