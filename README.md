@@ -8,7 +8,7 @@
 
 ## 📌 PROJECT OVERVIEW
 
-**Ticket Categorizer** is an NLP-based Machine Learning system designed to automatically analyze incoming support-ticket or email text and determine the most appropriate support category.
+**Ticket Categorizer** IS AN NLP -BASED MACHINE LEARNING system designed to automatically analyze incoming support-ticket or email text and determine the most appropriate support category.
 
 THE SYSTEM CLASSIFIES EACH TICKET INTO ONE OF FOUR CATEGORIE 
 * **BILLING**
