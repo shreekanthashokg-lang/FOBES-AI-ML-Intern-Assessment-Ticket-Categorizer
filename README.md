@@ -231,7 +231,7 @@ Category: GENERAL
 
 # 📊 DATASET
 
-The project uses a **custom synthetic dataset containing 80 manually written support tickets**.
+THE PROJECT USES A  **custom synthetic dataset containing 80 manually written support tickets**.
 
 The dataset was created specifically for this assessment and is **not the sample dataset provided in the project brief**.
 
