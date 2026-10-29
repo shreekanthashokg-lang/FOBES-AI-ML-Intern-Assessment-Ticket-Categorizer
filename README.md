@@ -63,7 +63,7 @@ FOR EXAMPLE :
 "My card was charged twice for the same subscription."
 ```
 
-should be routed to:
+SHOULD BE ROUTED TO :
 
 ```text
 BILLING
