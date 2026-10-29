@@ -116,7 +116,7 @@ THE PROJECT HAS THE FOLLOWING OBJECTIVES :
 
 ## 1. 💳 BILLING
 
-The **BILLING** category contains tickets related to financial and subscription-related issues.
+The **BILLING** CATEGORY CONATAINS TICKETS RELATED TO FINACIAL AND SUBCRIPTION-RELATED ISSUES.
 
 Typical examples include:
 
