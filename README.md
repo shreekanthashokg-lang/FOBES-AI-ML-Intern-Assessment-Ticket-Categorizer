@@ -163,7 +163,7 @@ EXAMPLES INCLUDES:
 EXAMPLE:
 
 ```text
-"The website is showing error 500 whenever I try to log in."
+"THE WEBSITES IS SHOWING error 500 whenever I try to log in."
 ```
 
 EXPECTED RESULT :
@@ -299,13 +299,13 @@ benefits
 ### GENERAL VOCABULARY 
 
 ```text
-information
-service
-question
-feedback
-details
-help
-request
+INFORMATION 
+SERVICE 
+QUESTION 
+FEEDBACK 
+DETAILS 
+HELP 
+REQUEST 
 ```
 
 Because the dataset is synthetic and relatively small, the model's performance should be interpreted as a demonstration of the pipeline rather than as evidence of production-level performance.
