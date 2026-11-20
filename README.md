@@ -38,7 +38,7 @@ CONFIDENCE EVALUATION
     ↓
 HUMAN REVIEW / AUTO ASSIGNMENT 
     ↓
-Priority Detection
+Priority DETECTION 
     ↓
 Final Ticket Result
 ```
@@ -60,7 +60,7 @@ MANUALLY READING EVERY INCOMING TICKET AND FORWARDING IT TO THE CORRECT DEPARTME
 FOR EXAMPLE :
 
 ```text
-"My card was charged twice for the same subscription."
+"MY CARD WAS CHARGED TWICE FOR THE SAME SUBSCRIPTION."
 ```
 
 SHOULD BE ROUTED TO :
