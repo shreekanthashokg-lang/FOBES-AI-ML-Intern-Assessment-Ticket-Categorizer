@@ -24,19 +24,19 @@ IN ADDITION  TO CATEGORY PREDICTION, THE SYSTEM PERFORMS TWO ADDITIONAL TASKS :
 THE PROJECT DEMONSTRATE A COMPLETE BASIC NLP/ML PIPELINE:
 
 ```text
-Raw Ticket
+RAW Ticket
     ↓
-Text Cleaning
+TEXT CLEANING 
     ↓
 TF-IDF Feature Extraction
     ↓
 Multinomial Naive Bayes
     ↓
-Category Prediction
+CATEGORY PREDICTION 
     ↓
-Confidence Evaluation
+CONFIDENCE EVALUATION 
     ↓
-Human Review / Auto Assignment
+HUMAN REVIEW / AUTO ASSIGNMENT 
     ↓
 Priority Detection
     ↓
