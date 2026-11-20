@@ -192,7 +192,7 @@ EXAMPLES INCLUDES :
 Example:
 
 ```text
-"I need help updating my employee information."
+"I NEED HELP UPDATING MY EMPLOYEE INFORMATION."
 ```
 
 Expected result:
