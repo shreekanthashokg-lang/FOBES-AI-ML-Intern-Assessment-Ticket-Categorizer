@@ -72,7 +72,7 @@ BILLING
 while:
 
 ```text
-"The application is showing error 500 and users cannot log in."
+"THE APPLICATION IS SHOWING ERROR 500 AND USERS CANNOT LOG in."
 ```
 
 should be routed to:
