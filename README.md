@@ -98,7 +98,7 @@ THE PROJECT HAS THE FOLLOWING OBJECTIVES :
 * Identify potentially urgent tickets.
 * Handle missing and empty ticket text safely.
 * Evaluate model performance using standard ML metrics.
-* Save the trained model for future predictions.
+* SAVE THE TRAINED MODEL FOR FUTURE PREDICTIONS.
 
 ### SECONDARY OBJECTIVES 
 
