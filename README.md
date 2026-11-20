@@ -120,9 +120,9 @@ The **BILLING** CATEGORY CONATAINS TICKETS RELATED TO FINACIAL AND SUBCRIPTION-R
 
 TYPICAL INCLUDES DATA :
 
-* Payment problems
-* Duplicate charges
-* Refund requests
+* PAYMENT PROBLEMS 
+* DUPLICATES charges
+* REFUND REQUESTS 
 * Subscription issues
 * Invoice problems
 * Incorrect charges
